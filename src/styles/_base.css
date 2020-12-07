@@ -1,0 +1,8 @@
+body {
+  background-color: whitesmoke;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.small-text {
+  font-size: 12px !important;
+}
